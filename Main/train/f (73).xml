@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Yesterday</folder>
+	<filename>f (73).jpg</filename>
+	<path>C:/Users/admin/Desktop/Yesterday/f (73).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>embryo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>1506</ymin>
+			<xmax>975</xmax>
+			<ymax>1731</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bloodcell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>515</xmin>
+			<ymin>1162</ymin>
+			<xmax>1268</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+</annotation>
