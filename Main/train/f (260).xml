@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yesterday</folder>
+	<filename>f (260).jpg</filename>
+	<path>C:/Users/admin/Desktop/Yesterday/f (260).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bloodcell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>906</xmin>
+			<ymin>228</ymin>
+			<xmax>1593</xmax>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+</annotation>
